@@ -10,4 +10,4 @@ setInterval(function(){ // Funcion Asincrona
     //console.log('I am ready')
 }, 1000)
 
-console.log('second instruction');
+console.log('first instruction');
