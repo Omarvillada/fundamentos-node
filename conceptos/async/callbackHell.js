@@ -40,13 +40,15 @@ hola('Omar', function(nombre){
         console.log('Proceso terminado...');
     });
 });
-/** 
-hola('Omar', function(nombre){
-    hablar(function(){
-        adios(nombre, function(){
-            console.log('Terminando proceso...')
-        });
-    })
-
-});
-*/
+/****************HELL**********************/
+// hola('Alejandro', function (nombre) {
+//     hablar(function () {
+//         hablar(function () {
+//             hablar(function () {
+//                 adios(nombre, function() {
+//                     console.log('Terminando proceso...');
+//                 });
+//             });
+//         });
+//     });
+// });
